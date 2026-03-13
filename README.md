@@ -91,7 +91,16 @@ Front-End Developer based in Cairo, Egypt with 2+ years of experience building h
 <h4>@hamdy-claro — Work (Claro)</h4>
 
 <p align="center">
-  <img src="https://github-readme-wheat.vercel.app/api?username=hamdy-claro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=stars" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-wheat.vercel.app/api?username=hamdy-claro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-wheat.vercel.app/api/top-langs/?username=hamdy-claro&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdy-claro&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamdy-claro&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
