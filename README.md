@@ -96,7 +96,7 @@ Front-End Developer based in Cairo, Egypt with 2+ years of experience building h
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdy-claro&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-statss.vercel.app/?user=hamdy-claro&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
