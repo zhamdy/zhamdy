@@ -105,18 +105,6 @@ Front-End Developer based in Cairo, Egypt with 2+ years of experience building h
 
 ---
 
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhamdy&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamdy-claro&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zhamdy&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
