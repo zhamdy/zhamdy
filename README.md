@@ -92,6 +92,7 @@ Front-End Developer based in Cairo, Egypt with 2+ years of experience building h
 
 <p align="center">
   <img src="https://github-readme-wheat.vercel.app/api?username=hamdy-claro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-wheat.vercel.app/api/top-langs/?username=hamdy-claro&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
