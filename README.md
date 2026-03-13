@@ -96,11 +96,11 @@ Front-End Developer based in Cairo, Egypt with 2+ years of experience building h
 </p>
 
 <p align="center">
-  <img src="https://streak-stats-one.vercel.app/?user=hamdy-claro&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdy-claro&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph-neon.vercel.app/graph?username=hamdy-claro&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamdy-claro&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
