@@ -13,9 +13,9 @@
 
 Front-End Developer based in Cairo, Egypt with 2+ years of experience building high-performance, scalable web applications. I specialize in **Angular** and **React** ecosystems, with a focus on performance optimization, bilingual (AR/EN) RTL support, and clean architecture.
 
-- Currently working at **Claro** building a RICS-regulated real estate valuation platform
+- Currently working at **Claro** — real estate valuation
+- Personal GitHub: [@zhamdy](https://github.com/zhamdy)
 - Work GitHub: [@hamdy-claro](https://github.com/hamdy-claro)
-- Co-Founder of **Blindoo** - a virtual startup studio platform
 - Passionate about pixel-perfect UI, Core Web Vitals, and reusable component architecture
 
 ---
