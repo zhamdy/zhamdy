@@ -84,10 +84,6 @@ Front-End Developer based in Cairo, Egypt with 2+ years of experience building h
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhamdy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhamdy&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
 <h4>@hamdy-claro — Work (Claro)</h4>
 
 <p align="center">
